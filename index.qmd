@@ -1,25 +1,10 @@
 ---
-title: "About Me"
+title: "Introduction"
 about:
-  id: me
+  id: intro
   template: broadside
-  image: img/Alobondo_Github.png
+  image: img/Logo_R_Shiny.png
 ---
 
-:::{#me}
 
-## - Hydrologist
-
-## - University lecturer
-
-## - R enthusiastic
-
-## - Drummer
-
-:::
-
-This website contains tools designed by **Alonso Arriagada** to support hydrological estimations.
-
-The applications, packages, and functions developed are intended to quickly and easily apply different statistical analyses and estimations using standard methodologies in water resource analysis. These tools aim to support decision-making related to hydrological risks, advanced statistical analysis of water resources, availability estimations, and more, through platforms and functions that allow for data management, proper visualization, and the download of all results.
-
-Any suggestion or question is welcome, please contact me by email: **alonso.arriagada@usach.cl**
+This website contains open-access tools for hydrological resource estimations. The applications, packages, and functions developed are intended to quickly and easily apply different statistical analyses and estimations using standard methodologies in water resource analysis. These tools aim to support decision-making related to hydrological risks, advanced statistical analysis of water resources, availability estimations, and more, through platforms and functions that allow for data management, proper visualization, and the download of all results.

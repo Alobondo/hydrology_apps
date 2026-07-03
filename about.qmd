@@ -1,0 +1,23 @@
+---
+title: "About Me"
+about:
+  id: me
+  template: broadside
+  image: img/Alobondo_Github.png
+---
+
+:::{#me}
+
+## - Hydrologist
+
+## - University lecturer
+
+## - R enthusiastic
+
+## - Drummer
+
+:::
+
+This website was designed by **Alonso Arriagada** to support hydrological estimations and education.
+
+Any suggestion or question is welcome, please contact me by email: **alonso.arriagada@usach.cl**

@@ -7,9 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: About
+        text: Intro
       - projects.qmd
       - packages.qmd
+      - about.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/alonso-arriagada
