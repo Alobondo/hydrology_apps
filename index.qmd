@@ -3,17 +3,21 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Alobondo_Github.png
 ---
 
 :::{#me}
 
-## Goals
+## - Hydrologist
 
-## Education
+## - University lecturer
 
-## Experience
+## - R enthusiastic
+
+## - Drummer
 
 :::
 
-Thanks for checking out my web site!
+This website contains tools designed by *Alonso Arriagada* to support hydrological estimations.
+
+The applications, packages, and functions developed are intended to quickly and easily apply different statistical analyses and estimations using standard methodologies in water resource analysis. These tools aim to support decision-making related to hydrological risks, advanced statistical analysis of water resources, availability estimations, and more, through platforms and functions that allow for data management, proper visualization, and the download of all results.

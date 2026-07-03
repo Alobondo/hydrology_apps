@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "projects.html#app-2",
+    "href": "projects.html#app-2",
+    "title": "Hydrology Tools",
+    "section": "App 2",
+    "text": "App 2"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "projects.html#app-3",
+    "href": "projects.html#app-3",
+    "title": "Hydrology Tools",
+    "section": "App 3",
+    "text": "App 3"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "This website contains tools designed by Alonso Arriagada to support hydrological estimations.\nThe applications, packages, and functions developed are intended to quickly and easily apply different statistical analyses and estimations using standard methodologies in water resource analysis. These tools aim to support decision-making related to hydrological risks, advanced statistical analysis of water resources, availability estimations, and more, through platforms and functions that allow for data management, proper visualization, and the download of all results."
   }
 ]
