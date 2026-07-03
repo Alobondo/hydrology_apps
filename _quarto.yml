@@ -7,8 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - projects.qmd
+      - packages.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/alonso-arriagada
@@ -20,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: minty
     toc: true
     
 editor: source

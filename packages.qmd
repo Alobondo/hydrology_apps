@@ -1,0 +1,27 @@
+---
+title: "Packages"
+---
+
+## Time.R
+
+Estimation of time of concentration and lag times for watersheds based on their morphometric characteristics. It includes various methods for calculation and offers plotting functionalities for comparative analysis.
+
+[https://cran.r-project.org/web/packages/Time.R/index.html](https://cran.r-project.org/web/packages/Time.R/index.html)
+
+## DeductiveR
+
+Apply the Deductive Rational Method to a monthly series of hydrological data to fill in missing data.
+
+[https://cran.r-project.org/web/packages/DeductiveR/index.html](https://cran.r-project.org/web/packages/DeductiveR/index.html)
+
+## hydroDCindex
+
+Compute duration curves of daily flow series, both real and modeled, to be compared through indexes of flow duration curves. The package functions include comparative plots and goodness of fit tests.
+
+[https://cran.r-project.org/web/packages/hydroDCindex/index.html](https://cran.r-project.org/web/packages/hydroDCindex/index.html)
+
+## MCTrend
+
+Application of a test to rule out that trends detected in hydrological time series are explained exclusively by the randomness of the climate.
+
+[https://cran.r-project.org/web/packages/MCTrend/index.html](https://cran.r-project.org/web/packages/MCTrend/index.html)
