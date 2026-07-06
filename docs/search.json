@@ -4,77 +4,84 @@
     "href": "projects.html",
     "title": "Apps",
     "section": "",
-    "text": "Hydrological frequency analysis app\nhttps://aam1203.shinyapps.io/Hydro_FA_App_V1_7/"
+    "text": "Hydrological frequency analysis\nhttps://aam1203.shinyapps.io/Hydro_FA_App_V1_7/"
   },
   {
     "objectID": "projects.html#frequency-analysis-app",
     "href": "projects.html#frequency-analysis-app",
     "title": "Apps",
     "section": "",
-    "text": "Hydrological frequency analysis app\nhttps://aam1203.shinyapps.io/Hydro_FA_App_V1_7/"
+    "text": "Hydrological frequency analysis\nhttps://aam1203.shinyapps.io/Hydro_FA_App_V1_7/"
   },
   {
     "objectID": "projects.html#time-of-concentration-app",
     "href": "projects.html#time-of-concentration-app",
     "title": "Apps",
     "section": "Time of Concentration App",
-    "text": "Time of Concentration App\nTime of concentration and lag time app\nhttps://aam1203.shinyapps.io/time_of_concentration_app/"
+    "text": "Time of Concentration App\nTime of concentration and lag time\nhttps://aam1203.shinyapps.io/time_of_concentration_app/"
   },
   {
     "objectID": "projects.html#scs-curve-number-app",
     "href": "projects.html#scs-curve-number-app",
     "title": "Apps",
     "section": "SCS Curve Number App",
-    "text": "SCS Curve Number App\nSCS Curve Number calculator app\nhttps://aam1203.shinyapps.io/CN_calculator_V1_1/"
+    "text": "SCS Curve Number App\nSCS Curve Number calculator\nhttps://aam1203.shinyapps.io/CN_calculator_V1_1/"
   },
   {
     "objectID": "projects.html#monthly-time-series-infill-app",
     "href": "projects.html#monthly-time-series-infill-app",
     "title": "Apps",
     "section": "Monthly Time Series Infill App",
-    "text": "Monthly Time Series Infill App\nRational Deductive method monthly time series infill app\nhttps://aam1203.shinyapps.io/DeductiveR_App_V3_1/"
+    "text": "Monthly Time Series Infill App\nRational Deductive method monthly time series infill\nhttps://aam1203.shinyapps.io/DeductiveR_App_V3_1/"
   },
   {
     "objectID": "projects.html#duration-cuvre-app",
     "href": "projects.html#duration-cuvre-app",
     "title": "Apps",
     "section": "Duration Cuvre App",
-    "text": "Duration Cuvre App\nDuration Curves for hydrological data app\nhttps://aam1203.shinyapps.io/CD_APP_V1/"
+    "text": "Duration Cuvre App\nDuration Curves for hydrological data\nhttps://aam1203.shinyapps.io/CD_APP_V1/"
   },
   {
     "objectID": "projects.html#seasonal-variation-curve-app",
     "href": "projects.html#seasonal-variation-curve-app",
     "title": "Apps",
     "section": "Seasonal Variation Curve App",
-    "text": "Seasonal Variation Curve App\nSeasonal Variation Curves for hydrological data app\nhttps://aam1203.shinyapps.io/CVE_APP_V1/"
+    "text": "Seasonal Variation Curve App\nSeasonal Variation Curves for hydrological data\nhttps://aam1203.shinyapps.io/CVE_APP_V1/"
   },
   {
     "objectID": "projects.html#cr2met-netcdf-extract-app",
     "href": "projects.html#cr2met-netcdf-extract-app",
     "title": "Apps",
     "section": "CR2MET Netcdf Extract App",
-    "text": "CR2MET Netcdf Extract App\nCR2MET netcdf extraction app\nhttps://aam1203.shinyapps.io/CR2MET_extract/"
+    "text": "CR2MET Netcdf Extract App\nCR2MET netcdf extraction\nhttps://aam1203.shinyapps.io/CR2MET_extract/"
   },
   {
     "objectID": "projects.html#nasapower-retrieve-app",
     "href": "projects.html#nasapower-retrieve-app",
     "title": "Apps",
     "section": "NASAPOWER Retrieve App",
-    "text": "NASAPOWER Retrieve App\nNASAPOWER retrieve app\nhttps://aam1203.shinyapps.io/NASAPOWER_Extractor/"
+    "text": "NASAPOWER Retrieve App\nNASAPOWER data retrieve\nhttps://aam1203.shinyapps.io/NASAPOWER_Extractor/"
   },
   {
     "objectID": "projects.html#spi-and-spei-app",
     "href": "projects.html#spi-and-spei-app",
     "title": "Apps",
     "section": "SPI and SPEI App",
-    "text": "SPI and SPEI App\nSPI, SPEI and AI analysis app\nhttps://aam1203.shinyapps.io/SPEI_SPI_App_V4/"
+    "text": "SPI and SPEI App\nSPI, SPEI and AI analysis\nhttps://aam1203.shinyapps.io/SPEI_SPI_App_V4/"
   },
   {
     "objectID": "projects.html#trend-and-stationarity-tests-app",
     "href": "projects.html#trend-and-stationarity-tests-app",
     "title": "Apps",
     "section": "Trend and Stationarity Tests App",
-    "text": "Trend and Stationarity Tests App\nTrend and stationarity tests for hydrological time series app\nhttps://aam1203.shinyapps.io/Trend_Tests_App_V5_1/"
+    "text": "Trend and Stationarity Tests App\nTrend and stationarity tests for hydrological time series\nhttps://aam1203.shinyapps.io/Trend_Tests_App_V5_1/"
+  },
+  {
+    "objectID": "projects.html#dmc-dashboard",
+    "href": "projects.html#dmc-dashboard",
+    "title": "Apps",
+    "section": "DMC Dashboard",
+    "text": "DMC Dashboard\nDownload and visualize DMC (Dirección Meteorológica de Chile) rainfall data\nhttps://aam1203.shinyapps.io/DMC_Dashboard/"
   },
   {
     "objectID": "index.html",

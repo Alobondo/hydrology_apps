@@ -4,62 +4,67 @@ title: "Apps"
 
 ## Frequency Analysis App
 
-Hydrological frequency analysis app
+Hydrological frequency analysis
 
 [https://aam1203.shinyapps.io/Hydro_FA_App_V1_7/](https://aam1203.shinyapps.io/Hydro_FA_App_V1_7/)
 
 ## Time of Concentration App
 
-Time of concentration and lag time app
+Time of concentration and lag time
 
 [https://aam1203.shinyapps.io/time_of_concentration_app/](https://aam1203.shinyapps.io/time_of_concentration_app/)
 
 ## SCS Curve Number App
 
-SCS Curve Number calculator app
+SCS Curve Number calculator
 
 [https://aam1203.shinyapps.io/CN_calculator_V1_1/](https://aam1203.shinyapps.io/CN_calculator_V1_1/)
 
 ## Monthly Time Series Infill App
 
-Rational Deductive method monthly time series infill app
+Rational Deductive method monthly time series infill
 
 [https://aam1203.shinyapps.io/DeductiveR_App_V3_1/](https://aam1203.shinyapps.io/DeductiveR_App_V3_1/)
 
 ## Duration Cuvre App
 
-Duration Curves for hydrological data app
+Duration Curves for hydrological data
 
 [https://aam1203.shinyapps.io/CD_APP_V1/](https://aam1203.shinyapps.io/CD_APP_V1/)
 
 ## Seasonal Variation Curve App
 
-Seasonal Variation Curves for hydrological data app
+Seasonal Variation Curves for hydrological data
 
 [https://aam1203.shinyapps.io/CVE_APP_V1/](https://aam1203.shinyapps.io/CVE_APP_V1/)
 
 ## CR2MET Netcdf Extract App
 
-CR2MET netcdf extraction app
+CR2MET netcdf extraction
 
 [https://aam1203.shinyapps.io/CR2MET_extract/](https://aam1203.shinyapps.io/CR2MET_extract/)
 
 ## NASAPOWER Retrieve App
 
-NASAPOWER retrieve app
+NASAPOWER data retrieve
 
 [https://aam1203.shinyapps.io/NASAPOWER_Extractor/](https://aam1203.shinyapps.io/NASAPOWER_Extractor/)
 
 ## SPI and SPEI App
 
-SPI, SPEI and AI analysis app
+SPI, SPEI and AI analysis
 
 [https://aam1203.shinyapps.io/SPEI_SPI_App_V4/](https://aam1203.shinyapps.io/SPEI_SPI_App_V4/)
 
 ## Trend and Stationarity Tests App
 
-Trend and stationarity tests for hydrological time series app
+Trend and stationarity tests for hydrological time series
 
 [https://aam1203.shinyapps.io/Trend_Tests_App_V5_1/](https://aam1203.shinyapps.io/Trend_Tests_App_V5_1/)
 
+## DMC Dashboard
+
+Download and visualize DMC (Dirección Meteorológica de Chile) rainfall data
+
+[https://aam1203.shinyapps.io/DMC_Dashboard/](https://aam1203.shinyapps.io/DMC_Dashboard/)
 
