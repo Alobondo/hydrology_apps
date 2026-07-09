@@ -84,6 +84,13 @@
     "text": "DMC Dashboard\nDownload and visualize DMC (Dirección Meteorológica de Chile) rainfall data\nhttps://aam1203.shinyapps.io/DMC_Dashboard/"
   },
   {
+    "objectID": "projects.html#cr2-mawün-verification-app",
+    "href": "projects.html#cr2-mawün-verification-app",
+    "title": "Apps",
+    "section": "CR2 Mawün Verification App",
+    "text": "CR2 Mawün Verification App\nCompare and visualize CR2 Mawün models rainfall data with chilean public rainfall data\nhttps://aam1203.shinyapps.io/Verificacion_MAWUN_App_V0_3/"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
