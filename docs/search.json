@@ -138,5 +138,19 @@
     "title": "Packages",
     "section": "MCTrend",
     "text": "MCTrend\nApplication of a test to rule out that trends detected in hydrological time series are explained exclusively by the randomness of the climate.\nhttps://cran.r-project.org/web/packages/MCTrend/index.html"
+  },
+  {
+    "objectID": "projects.html#mawün-verification",
+    "href": "projects.html#mawün-verification",
+    "title": "Apps",
+    "section": "Mawün Verification",
+    "text": "Mawün Verification\nCompare and visualize CR2 Mawün rainfall models data with chilean public rainfall data\nhttps://aam1203.shinyapps.io/Verificacion_MAWUN_App_V0_3/"
+  },
+  {
+    "objectID": "projects.html#rainfall-altitudinal-gradient",
+    "href": "projects.html#rainfall-altitudinal-gradient",
+    "title": "Apps",
+    "section": "Rainfall Altitudinal Gradient",
+    "text": "Rainfall Altitudinal Gradient\nAnalyze rainfall altitudinal gradients considering data from chilean public rainfall stations\nhttps://aam1203.shinyapps.io/R_grad_orografico_V7/"
   }
 ]
