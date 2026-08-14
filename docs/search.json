@@ -84,11 +84,18 @@
     "text": "DMC Dashboard\nDownload and visualize DMC (Dirección Meteorológica de Chile) rainfall data\nhttps://aam1203.shinyapps.io/DMC_Dashboard/"
   },
   {
-    "objectID": "projects.html#cr2-mawün-verification-app",
-    "href": "projects.html#cr2-mawün-verification-app",
+    "objectID": "projects.html#mawün-verification",
+    "href": "projects.html#mawün-verification",
     "title": "Apps",
-    "section": "CR2 Mawün Verification App",
-    "text": "CR2 Mawün Verification App\nCompare and visualize CR2 Mawün models rainfall data with chilean public rainfall data\nhttps://aam1203.shinyapps.io/Verificacion_MAWUN_App_V0_3/"
+    "section": "Mawün Verification",
+    "text": "Mawün Verification\nCompare and visualize CR2 Mawün rainfall models data with chilean public rainfall data\nhttps://aam1203.shinyapps.io/Verificacion_MAWUN_App_V0_3/"
+  },
+  {
+    "objectID": "projects.html#rainfall-altitudinal-gradient",
+    "href": "projects.html#rainfall-altitudinal-gradient",
+    "title": "Apps",
+    "section": "Rainfall Altitudinal Gradient",
+    "text": "Rainfall Altitudinal Gradient\nAnalyze rainfall altitudinal gradients considering data from chilean public rainfall stations\nhttps://aam1203.shinyapps.io/R_grad_orografico_V7/"
   },
   {
     "objectID": "index.html",
@@ -138,117 +145,5 @@
     "title": "Packages",
     "section": "MCTrend",
     "text": "MCTrend\nApplication of a test to rule out that trends detected in hydrological time series are explained exclusively by the randomness of the climate.\nhttps://cran.r-project.org/web/packages/MCTrend/index.html"
-  },
-  {
-    "objectID": "projects.html#mawün-verification",
-    "href": "projects.html#mawün-verification",
-    "title": "Apps",
-    "section": "Mawün Verification",
-    "text": "Mawün Verification\nCompare and visualize CR2 Mawün rainfall models data with chilean public rainfall data\nhttps://aam1203.shinyapps.io/Verificacion_MAWUN_App_V0_3/"
-  },
-  {
-    "objectID": "projects.html#rainfall-altitudinal-gradient",
-    "href": "projects.html#rainfall-altitudinal-gradient",
-    "title": "Apps",
-    "section": "Rainfall Altitudinal Gradient",
-    "text": "Rainfall Altitudinal Gradient\nAnalyze rainfall altitudinal gradients considering data from chilean public rainfall stations"
-  },
-  {
-    "objectID": "projects.html#title-apps",
-    "href": "projects.html#title-apps",
-    "title": "Apps",
-    "section": "title: “Apps”",
-    "text": "title: “Apps”"
-  },
-  {
-    "objectID": "projects.html#frequency-analysis-app-1",
-    "href": "projects.html#frequency-analysis-app-1",
-    "title": "Apps",
-    "section": "Frequency Analysis App",
-    "text": "Frequency Analysis App\nHydrological frequency analysis\nhttps://aam1203.shinyapps.io/Hydro_FA_App_V1_7/"
-  },
-  {
-    "objectID": "projects.html#time-of-concentration-app-1",
-    "href": "projects.html#time-of-concentration-app-1",
-    "title": "Apps",
-    "section": "Time of Concentration App",
-    "text": "Time of Concentration App\nTime of concentration and lag time\nhttps://aam1203.shinyapps.io/time_of_concentration_app/"
-  },
-  {
-    "objectID": "projects.html#scs-curve-number-app-1",
-    "href": "projects.html#scs-curve-number-app-1",
-    "title": "Apps",
-    "section": "SCS Curve Number App",
-    "text": "SCS Curve Number App\nSCS Curve Number calculator\nhttps://aam1203.shinyapps.io/CN_calculator_V1_1/"
-  },
-  {
-    "objectID": "projects.html#monthly-time-series-infill-app-1",
-    "href": "projects.html#monthly-time-series-infill-app-1",
-    "title": "Apps",
-    "section": "Monthly Time Series Infill App",
-    "text": "Monthly Time Series Infill App\nRational Deductive method monthly time series infill\nhttps://aam1203.shinyapps.io/DeductiveR_App_V3_1/"
-  },
-  {
-    "objectID": "projects.html#duration-cuvre-app-1",
-    "href": "projects.html#duration-cuvre-app-1",
-    "title": "Apps",
-    "section": "Duration Cuvre App",
-    "text": "Duration Cuvre App\nDuration Curves for hydrological data\nhttps://aam1203.shinyapps.io/CD_APP_V1/"
-  },
-  {
-    "objectID": "projects.html#seasonal-variation-curve-app-1",
-    "href": "projects.html#seasonal-variation-curve-app-1",
-    "title": "Apps",
-    "section": "Seasonal Variation Curve App",
-    "text": "Seasonal Variation Curve App\nSeasonal Variation Curves for hydrological data\nhttps://aam1203.shinyapps.io/CVE_APP_V1/"
-  },
-  {
-    "objectID": "projects.html#cr2met-netcdf-extract-app-1",
-    "href": "projects.html#cr2met-netcdf-extract-app-1",
-    "title": "Apps",
-    "section": "CR2MET Netcdf Extract App",
-    "text": "CR2MET Netcdf Extract App\nCR2MET netcdf extraction\nhttps://aam1203.shinyapps.io/CR2MET_extract/"
-  },
-  {
-    "objectID": "projects.html#nasapower-retrieve-app-1",
-    "href": "projects.html#nasapower-retrieve-app-1",
-    "title": "Apps",
-    "section": "NASAPOWER Retrieve App",
-    "text": "NASAPOWER Retrieve App\nNASAPOWER data retrieve\nhttps://aam1203.shinyapps.io/NASAPOWER_Extractor/"
-  },
-  {
-    "objectID": "projects.html#spi-and-spei-app-1",
-    "href": "projects.html#spi-and-spei-app-1",
-    "title": "Apps",
-    "section": "SPI and SPEI App",
-    "text": "SPI and SPEI App\nSPI, SPEI and AI analysis\nhttps://aam1203.shinyapps.io/SPEI_SPI_App_V4/"
-  },
-  {
-    "objectID": "projects.html#trend-and-stationarity-tests-app-1",
-    "href": "projects.html#trend-and-stationarity-tests-app-1",
-    "title": "Apps",
-    "section": "Trend and Stationarity Tests App",
-    "text": "Trend and Stationarity Tests App\nTrend and stationarity tests for hydrological time series\nhttps://aam1203.shinyapps.io/Trend_Tests_App_V5_1/"
-  },
-  {
-    "objectID": "projects.html#dmc-dashboard-1",
-    "href": "projects.html#dmc-dashboard-1",
-    "title": "Apps",
-    "section": "DMC Dashboard",
-    "text": "DMC Dashboard\nDownload and visualize DMC (Dirección Meteorológica de Chile) rainfall data\nhttps://aam1203.shinyapps.io/DMC_Dashboard/"
-  },
-  {
-    "objectID": "projects.html#mawün-verification-1",
-    "href": "projects.html#mawün-verification-1",
-    "title": "Apps",
-    "section": "Mawün Verification",
-    "text": "Mawün Verification\nCompare and visualize CR2 Mawün rainfall models data with chilean public rainfall data\nhttps://aam1203.shinyapps.io/Verificacion_MAWUN_App_V0_3/"
-  },
-  {
-    "objectID": "projects.html#rainfall-altitudinal-gradient-1",
-    "href": "projects.html#rainfall-altitudinal-gradient-1",
-    "title": "Apps",
-    "section": "Rainfall Altitudinal Gradient",
-    "text": "Rainfall Altitudinal Gradient\nAnalyze rainfall altitudinal gradients considering data from chilean public rainfall stations\nhttps://aam1203.shinyapps.io/R_grad_orografico_V7/"
   }
 ]
