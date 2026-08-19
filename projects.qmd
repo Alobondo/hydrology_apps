@@ -26,7 +26,7 @@ Rational Deductive method monthly time series infill
 
 [https://aam1203.shinyapps.io/DeductiveR_App_V3_1/](https://aam1203.shinyapps.io/DeductiveR_App_V3_1/)
 
-## Duration Cuvre App
+## Duration Curve App
 
 Duration Curves for hydrological data
 
