@@ -98,6 +98,13 @@
     "text": "Rainfall Altitudinal Gradient\nAnalyze rainfall altitudinal gradients considering data from chilean public rainfall stations\nhttps://aam1203.shinyapps.io/R_grad_orografico_V7/"
   },
   {
+    "objectID": "projects.html#arclim-time-series-by-cell-retrieve",
+    "href": "projects.html#arclim-time-series-by-cell-retrieve",
+    "title": "Apps",
+    "section": "ARClim time series by cell retrieve",
+    "text": "ARClim time series by cell retrieve\nA tool that allows users to download time series of climate variables from Chile’s ARClim platform at grid cell spatial scale\nhttps://aam1203.shinyapps.io/Arclim_celda_V2_1/"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
