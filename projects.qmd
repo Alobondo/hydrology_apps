@@ -80,6 +80,12 @@ Analyze rainfall altitudinal gradients considering data from chilean public rain
 
 [https://aam1203.shinyapps.io/R_grad_orografico_V7/](https://aam1203.shinyapps.io/R_grad_orografico_V7/)
 
+## Mean Temperature Altitudinal Gradient
+
+Analyze mean temperature altitudinal gradients considering data from chilean public rainfall stations
+
+[https://aam1203.shinyapps.io/R_grad_termico_V3/](https://aam1203.shinyapps.io/R_grad_termico_V3/)
+
 ## ARClim time series by cell retrieve
 
 A tool that allows users to download time series of climate variables from Chile's ARClim platform at grid cell spatial scale

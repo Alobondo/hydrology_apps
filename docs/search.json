@@ -98,6 +98,13 @@
     "text": "Rainfall Altitudinal Gradient\nAnalyze rainfall altitudinal gradients considering data from chilean public rainfall stations\nhttps://aam1203.shinyapps.io/R_grad_orografico_V7/"
   },
   {
+    "objectID": "projects.html#mean-temperature-altitudinal-gradient",
+    "href": "projects.html#mean-temperature-altitudinal-gradient",
+    "title": "Apps",
+    "section": "Mean Temperature Altitudinal Gradient",
+    "text": "Mean Temperature Altitudinal Gradient\nAnalyze mean temperature altitudinal gradients considering data from chilean public rainfall stations\nhttps://aam1203.shinyapps.io/R_grad_termico_V3/"
+  },
+  {
     "objectID": "projects.html#arclim-time-series-by-cell-retrieve",
     "href": "projects.html#arclim-time-series-by-cell-retrieve",
     "title": "Apps",
