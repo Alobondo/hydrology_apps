@@ -112,6 +112,13 @@
     "text": "ARClim time series by cell retrieve\nA tool that allows users to download time series of climate variables from Chile’s ARClim platform at grid cell spatial scale\nhttps://aam1203.shinyapps.io/Arclim_celda_V4/"
   },
   {
+    "objectID": "projects.html#climate-change-precipitation-bias-correction",
+    "href": "projects.html#climate-change-precipitation-bias-correction",
+    "title": "Apps",
+    "section": "Climate Change precipitation Bias Correction",
+    "text": "Climate Change precipitation Bias Correction\nA tool that allows users to apply several methods of Bias Correction for daily maximum precipitation values from Climate Change series, using DGA stations and a user defined station\nhttps://aam1203.shinyapps.io/PPmax_vs_ARClim_app/"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
