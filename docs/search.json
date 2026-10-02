@@ -119,6 +119,13 @@
     "text": "Climate Change precipitation Bias Correction\nA tool that allows users to apply several methods of Bias Correction for daily maximum precipitation values from Climate Change series, using DGA stations and a user defined station\nhttps://aam1203.shinyapps.io/PPmax_vs_ARClim_app/"
   },
   {
+    "objectID": "projects.html#correlation-of-enso-3.4-index-and-precipitation-for-chilean-stations",
+    "href": "projects.html#correlation-of-enso-3.4-index-and-precipitation-for-chilean-stations",
+    "title": "Apps",
+    "section": "Correlation of ENSO 3.4 index and precipitation for chilean stations",
+    "text": "Correlation of ENSO 3.4 index and precipitation for chilean stations\nA tool that allows users to select precipitation data from a chilean public station and relate it with the ENSO 3.4 index\nhttps://aam1203.shinyapps.io/ENSO_PP_app/"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction",
