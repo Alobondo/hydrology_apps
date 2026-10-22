@@ -100,7 +100,7 @@ A tool that allows users to apply several methods of Bias Correction for daily m
 
 ## Correlation of climate indexes and precipitation for chilean stations
 
-A tool that allows users to select precipitation data from a chilean public station and relate it with the ENSO 3.4 index
+A tool that allows users to select precipitation data from a chilean public station and relate it with climate indexes
 
 [https://aam1203.shinyapps.io/ENSO_PP_app/](https://aam1203.shinyapps.io/ENSO_PP_app/)
 
